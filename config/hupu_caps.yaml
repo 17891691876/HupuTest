@@ -1,0 +1,19 @@
+platformName: Android
+#模拟器
+#platformVersion: 5.1.1
+#deviceName: 127.0.0.1:21503
+
+#huawei真机
+platformVersion: 8.1.0  #vivo 7.1.2  华为8.1.0
+udid: 5AFBB18A27507814   #vivo e4d6c6a9   华为 5AFBB18A27507814
+deviceName: Honor 8X Max   #华为Honor 8X Max
+automationName: Uiautomator2
+appname: hupu1.apk
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.hupu.games
+appActivity: com.hupu.games.activity.LaunchActivity
+ip: 127.0.0.1
+port: 4723

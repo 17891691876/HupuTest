@@ -1,3 +1,2 @@
 # HupuTest
-HupuTest
 print("hell")

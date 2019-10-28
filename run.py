@@ -5,7 +5,7 @@ import logging
 
 #指定测试用例和测试报告的路径
 test_dir = "../test_case"
-report_dir = "../reports"
+report_dir = "reports"
 
 #加载测试用例
 discover = unittest.defaultTestLoader.discover(test_dir,pattern="test_startAd_case.py")
